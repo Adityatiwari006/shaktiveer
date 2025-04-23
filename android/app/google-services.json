@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804093147011",
+    "project_id": "shaktiveer-a00e6",
+    "storage_bucket": "shaktiveer-a00e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804093147011:android:eb78f528c08bb5df7628b6",
+        "android_client_info": {
+          "package_name": "com.example.shaktiveeer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA9PqYXh3S6Ddz2mzlCVe9wqoinko-iIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804093147011:android:a67045d244435ad37628b6",
+        "android_client_info": {
+          "package_name": "com.example.shaktiveer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA9PqYXh3S6Ddz2mzlCVe9wqoinko-iIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
